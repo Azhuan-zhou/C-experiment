@@ -1,0 +1,11 @@
+# ninja log v5
+18	312	7228765712095070	CMakeFiles/first.dir/squentialList.cpp.obj	4b99c64be45b1166
+27	325	7228765712235110	CMakeFiles/first.dir/stackLink.cpp.obj	c8565acbb40fb1f2
+10	334	7228765712325131	CMakeFiles/first.dir/queueArray.cpp.obj	a81ef1af7fe811e1
+35	340	7228765712395147	CMakeFiles/first.dir/queueLink.cpp.obj	d2e652d6efb5284
+45	367	7228765712655205	CMakeFiles/first.dir/stackArray.cpp.obj	203e345f1b202907
+2	257	7228766031443749	CMakeFiles/first.dir/Linklist.cpp.obj	82fa57dbdcbd1e73
+11	272	7228766031583779	CMakeFiles/first.dir/main.cpp.obj	5466c30ef5bcffd5
+272	413	7228766032974093	first.exe	c8814f380d996da5
+2	258	7228766154349389	CMakeFiles/first.dir/main.cpp.obj	5466c30ef5bcffd5
+259	394	7228766155667294	first.exe	c8814f380d996da5

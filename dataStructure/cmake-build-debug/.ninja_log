@@ -1,0 +1,9 @@
+# ninja log v5
+3	295	7193431552866073	CMakeFiles/dataStructure.dir/Linklist.cpp.obj	b6ddc2bf4f8d6fb8
+3	274	7193440220458048	CMakeFiles/dataStructure.dir/queueArray.cpp.obj	418f09734f89fdd5
+19	326	7193330925039647	CMakeFiles/dataStructure.dir/squentialList.cpp.obj	2b413ca07fd1ee90
+19	292	7193425685635339	CMakeFiles/dataStructure.dir/queueLink.cpp.obj	96db7162a1a32406
+28	289	7193440220598087	CMakeFiles/dataStructure.dir/stackArray.cpp.obj	cc34099e0cf3e77b
+37	389	7193330925679778	CMakeFiles/dataStructure.dir/stackLink.cpp.obj	9cfe053e8f1a259d
+264	416	7193426592384094	dataStructure.exe	1fc94590e8bb8bb
+1	173	7206118074905687	build.ninja	63ce2713d1fde06e

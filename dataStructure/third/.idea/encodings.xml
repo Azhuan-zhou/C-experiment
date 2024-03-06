@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Bubble.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/HeapSort.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/InsertSort.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Mergesort.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/QuickSort.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/RadixSort.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/SelectSort.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Shell.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+  </component>
+</project>

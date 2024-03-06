@@ -1,0 +1,3 @@
+D:/wodedaima/vscode/dataStructure/Forth/cmake-build-debug/CMakeFiles/Forth.dir
+D:/wodedaima/vscode/dataStructure/Forth/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/wodedaima/vscode/dataStructure/Forth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
