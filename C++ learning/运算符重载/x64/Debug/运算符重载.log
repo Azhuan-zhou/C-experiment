@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\wodedaima\C++\My experiment\运算符重载\源.cpp(7,23): warning C4311: “类型强制转换”: 从“Integrater *”到“int”的指针截断
+D:\wodedaima\C++\My experiment\运算符重载\源.cpp(7,23): warning C4302: “类型强制转换”: 从“Integrater *”到“int”截断
+D:\wodedaima\C++\My experiment\运算符重载\源.cpp(9,22): warning C4311: “类型强制转换”: 从“Integrater *”到“int”的指针截断
+D:\wodedaima\C++\My experiment\运算符重载\源.cpp(9,22): warning C4302: “类型强制转换”: 从“Integrater *”到“int”截断
+  运算符重载.vcxproj -> D:\wodedaima\C++\My experiment\运算符重载\x64\Debug\运算符重载.exe

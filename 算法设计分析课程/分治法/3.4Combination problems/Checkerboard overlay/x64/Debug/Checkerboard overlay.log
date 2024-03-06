@@ -1,0 +1,6 @@
+﻿  chessboard.cpp
+  main.cpp
+  正在生成代码...
+main.obj : error LNK2005: "int title" (?title@@3HA) 已经在 chessboard.obj 中定义
+main.obj : error LNK2005: "int (* board)[1025]" (?board@@3PAY0EAB@HA) 已经在 chessboard.obj 中定义
+D:\wodedaima\C++\分治法\3.4Combination problems\Checkerboard overlay\x64\Debug\Checkerboard overlay.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

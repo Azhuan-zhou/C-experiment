@@ -1,0 +1,3 @@
+﻿  midnum.cpp
+D:\wodedaima\C++\Finding Issues\findmidnum\midnum.cpp(37): warning C4715: “midnum”: 不是所有的控件路径都返回值
+  findmidnum.vcxproj -> D:\wodedaima\C++\Finding Issues\findmidnum\x64\Debug\findmidnum.exe

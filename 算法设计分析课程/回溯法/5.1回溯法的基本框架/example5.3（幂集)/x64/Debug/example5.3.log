@@ -1,0 +1,3 @@
+﻿  pset(vector).cpp
+pset.obj : error LNK2005: main 已经在 pset(vector).obj 中定义
+D:\wodedaima\C++\回溯法\5.1回溯法的基本框架\example5.3\x64\Debug\example5.3.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

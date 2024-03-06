@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求解最大连续子序列和问题", "求解最大连续子序列和问题.vcxproj", "{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}.Debug|x64.ActiveCfg = Debug|x64
+		{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}.Debug|x64.Build.0 = Debug|x64
+		{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}.Debug|x86.Build.0 = Debug|Win32
+		{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}.Release|x64.ActiveCfg = Release|x64
+		{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}.Release|x64.Build.0 = Release|x64
+		{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}.Release|x86.ActiveCfg = Release|Win32
+		{BDD913A6-AEC4-49EE-B081-F7CDE71E5358}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DD67F03-0325-416A-85FF-A86737BC48B0}
+	EndGlobalSection
+EndGlobal

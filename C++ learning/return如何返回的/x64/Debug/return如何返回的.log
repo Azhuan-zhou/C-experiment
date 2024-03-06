@@ -1,0 +1,2 @@
+﻿  源.cpp
+D:\wodedaima\C++\My experiment\return如何返回的\源.cpp(11,9): error C2440: “初始化”: 无法从“int”转换为“int &”

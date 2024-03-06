@@ -1,0 +1,4 @@
+﻿  project.cpp
+D:\wodedaima\C++\动态规划\8.5求解最长子序列\project.cpp(62,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\wodedaima\C++\动态规划\8.5求解最长子序列\project.cpp(63,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  8.5求解最长子序列.vcxproj -> D:\wodedaima\C++\动态规划\8.5求解最长子序列\x64\Debug\8.5求解最长子序列.exe

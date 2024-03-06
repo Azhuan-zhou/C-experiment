@@ -1,0 +1,8 @@
+﻿  beibao.cpp
+D:\wodedaima\C++\回溯法\5.2 0-1背包问题\0-1背包（上界函数）\beibao.cpp(12,24): warning C4838: 从“double”转换到“int”需要收缩转换
+D:\wodedaima\C++\回溯法\5.2 0-1背包问题\0-1背包（上界函数）\beibao.cpp(12,24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\wodedaima\C++\回溯法\5.2 0-1背包问题\0-1背包（上界函数）\beibao.cpp(12,36): warning C4838: 从“double”转换到“int”需要收缩转换
+D:\wodedaima\C++\回溯法\5.2 0-1背包问题\0-1背包（上界函数）\beibao.cpp(12,36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\wodedaima\C++\回溯法\5.2 0-1背包问题\0-1背包（上界函数）\beibao.cpp(12,48): warning C4838: 从“double”转换到“int”需要收缩转换
+D:\wodedaima\C++\回溯法\5.2 0-1背包问题\0-1背包（上界函数）\beibao.cpp(12,48): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  0-1背包（上界函数）.vcxproj -> D:\wodedaima\C++\回溯法\5.2 0-1背包问题\0-1背包（上界函数）\x64\Debug\0-1背包（上界函数）.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.5求解最长子序列", "8.5求解最长子序列.vcxproj", "{7A9A8347-6B9D-47DB-A087-AFD155F70660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A9A8347-6B9D-47DB-A087-AFD155F70660}.Debug|x64.ActiveCfg = Debug|x64
+		{7A9A8347-6B9D-47DB-A087-AFD155F70660}.Debug|x64.Build.0 = Debug|x64
+		{7A9A8347-6B9D-47DB-A087-AFD155F70660}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A9A8347-6B9D-47DB-A087-AFD155F70660}.Debug|x86.Build.0 = Debug|Win32
+		{7A9A8347-6B9D-47DB-A087-AFD155F70660}.Release|x64.ActiveCfg = Release|x64
+		{7A9A8347-6B9D-47DB-A087-AFD155F70660}.Release|x64.Build.0 = Release|x64
+		{7A9A8347-6B9D-47DB-A087-AFD155F70660}.Release|x86.ActiveCfg = Release|Win32
+		{7A9A8347-6B9D-47DB-A087-AFD155F70660}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0013A5DC-F8E6-4994-94EB-86892C3DD8D1}
+	EndGlobalSection
+EndGlobal

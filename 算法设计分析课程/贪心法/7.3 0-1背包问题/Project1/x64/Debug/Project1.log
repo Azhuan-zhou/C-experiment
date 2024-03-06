@@ -1,0 +1,9 @@
+﻿  0-1背包.cpp
+D:\wodedaima\C++\贪心法\7.3 0-1背包问题\Project1\0-1背包.cpp(30,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\wodedaima\C++\贪心法\7.3 0-1背包问题\Project1\0-1背包.cpp(33,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\wodedaima\C++\贪心法\7.3 0-1背包问题\Project1\0-1背包.cpp(38,7): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\wodedaima\C++\贪心法\7.3 0-1背包问题\Project1\0-1背包.cpp(39,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\wodedaima\C++\贪心法\7.3 0-1背包问题\Project1\0-1背包.cpp(40,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\wodedaima\C++\贪心法\7.3 0-1背包问题\Project1\0-1背包.cpp(41,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\wodedaima\C++\贪心法\7.3 0-1背包问题\Project1\0-1背包.cpp(35,6): warning C4101: “t”: 未引用的局部变量
+  Project1.vcxproj -> D:\wodedaima\C++\贪心法\7.3 0-1背包问题\Project1\x64\Debug\Project1.exe

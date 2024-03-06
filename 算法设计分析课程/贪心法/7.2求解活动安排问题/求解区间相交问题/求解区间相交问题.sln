@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求解区间相交问题", "求解区间相交问题.vcxproj", "{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}.Debug|x64.ActiveCfg = Debug|x64
+		{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}.Debug|x64.Build.0 = Debug|x64
+		{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}.Debug|x86.Build.0 = Debug|Win32
+		{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}.Release|x64.ActiveCfg = Release|x64
+		{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}.Release|x64.Build.0 = Release|x64
+		{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}.Release|x86.ActiveCfg = Release|Win32
+		{C199F76F-64D1-4F2B-8FCE-64D854CD0AA1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1AC7E1-1199-4ED4-B691-2464D49F2766}
+	EndGlobalSection
+EndGlobal
